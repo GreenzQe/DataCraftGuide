@@ -1,4 +1,4 @@
-# DataCraftGuide
+# DataCraft Guide
 
 Download Modrinth App https://modrinth.com/app
 
