@@ -2,8 +2,7 @@
 
 Download Modrinth App https://modrinth.com/app
 
-Download the DatamatikerClient 1.0.X.mrpack from:
-https://drive.google.com/drive/folders/1GKn8XzH2shwTvkCPnZrVFlnVLpVqE-um
+Download the DatamatikerClient 1.0.X.mrpack from this repository
 
 Open Modrinth and press the "Create new instance" (+ button on the left)
 
