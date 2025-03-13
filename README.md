@@ -1,13 +1,19 @@
 # DataCraft Guide
 
-Download Modrinth App https://modrinth.com/app
+1. Download Modrinth App https://modrinth.com/app
 
-Download the DatamatikerClient 1.0.X.mrpack from this repository
+2. Download the DatamatikerClient 1.0.X.mrpack from this repository
 
-Open Modrinth and press the "Create new instance" (+ button on the left)
+3. Open Modrinth and press the "Create new instance" (+ button on the left)
 
-Start the Instance and login with your Microsoft account if prompted
+4. Start the Instance and login with your Microsoft account if prompted
 
-Open Multiplayer and add server datamatiker.secure.pebble.host
+5. Open Multiplayer and add server datamatiker.secure.pebble.host
 
-If not whitelisted send your username to me on Discord
+6. If not whitelisted send your username to me on Discord
+
+# More details
+
+The mods are available standalone in the "mods" folder in this repository
+
+The modloader is NeoForge 1.21.1 https://docs.neoforged.net/
